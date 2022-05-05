@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+
+    <body>
+
+    <div class="main-wrapper">
+
+
+        <div class="page-wrapper">
+            <div class="content container-fluid">
+
+                <div class="row">
+                    <div class="col-md-9">
+                        {% for about in aboutus %}
+                            <div class="blog-view">
+                            <article class="blog blog-single-post">
+                                <h3 class="blog-title">Do you know About Us ?</h3>
+                                <div class="blog-image">
+                                    {% if about.img %}
+                                        <a href="#"><img alt="" src="{{ about.img.url }}" class="img-fluid"></a>
+                                    {% else %}
+                                        <a href="#"><img alt="" src="{% static 'assets/img/blog/blog-01.jpg' %}"
+                                                         class="img-fluid"></a>
+                                    {% endif %}
+                                </div>
+                                <div class="blog-content">
+                                    <p>{{ about.visyon }}</p>
+                                </div>
+                            </article>
+
+                            <div class="widget author-widget clearfix">
+                                 <h3><span class="blog-author-name">Hedefimiz</span></h3>
+                                <div class="about-author">
+                                    <div class="author-details">
+                                        <p>{{ about.misyon }}</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        {% endfor %}
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    </body>
+{% endblock %}

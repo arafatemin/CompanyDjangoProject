@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+
+    <body>
+
+    <div class="main-wrapper">
+
+
+        <div class="page-wrapper">
+            <div class="content container-fluid">
+                <div class="page-header">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <h5 class="text-uppercase mb-0 mt-0 page-title">Contact Page</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <ul class="breadcrumb float-right p-0 mb-0">
+                                <li class="breadcrumb-item"><a href="{% url 'index' %}"><i class="fas fa-home"></i> Home</a>
+                                </li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 d-flex">
+                        <div class="card flex-fill">
+                            <div class="card-header">
+                                <h4 class="card-title">Our Adress</h4>
+                            </div>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3011.2601795626206!2d39.76902971541369!3d40.9976781793019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40643b54b3b2061f%3A0x7abdf48cd6c81000!2sKaradeniz%20Technical%20University!5e0!3m2!1str!2str!4v1640833786897!5m2!1str!2str"
+                                    width="775" height="635" style="border:0;" allowfullscreen=""
+                                    loading="lazy"></iframe>
+
+
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex">
+                        <div class="card flex-fill">
+                            <div class="card-header">
+                                <h4 class="card-title">Bize ulasin</h4>
+                            </div>
+                            <div class="card-body">
+                                <form method="post">
+                                    {% csrf_token %}
+                                    <div class="form-group row">
+                                        <label class="col-md-3 col-form-label">Name</label>
+                                        <div class="col-md-9">
+                                            <input type="text" name="name" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <label class="col-md-3 col-form-label">Last Name</label>
+                                        <div class="col-md-9">
+                                            <input type="text" name="lastname" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <label class="col-md-3 col-form-label">Telephon</label>
+                                        <div class="col-md-9">
+                                            <input type="text" name="tel" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="form-group row">
+                                        <label class="col-md-3 col-form-label">Email</label>
+                                        <div class="col-md-9">
+                                            <input type="email" name="email" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-md-3 col-form-label">Description</label>
+                                        <div class="col-md-9">
+                                            <textarea name="description" id="" cols="76" rows="15"></textarea>
+                                        </div>
+                                    </div>
+
+
+                                    <div class="text-right">
+                                        <button type="submit" class="btn btn-primary">Gonder</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    </body>
+
+{% endblock %}

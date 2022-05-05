@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/article/admin.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Todo-App/article/admin.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/db.sqlite3" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Todo-App/db.sqlite3" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/01.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/010.jpg" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/7.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/Todo-App" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22Ep8bojgFseMArMvZZtTHndurm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arafat\OneDrive - Karadeniz Teknik University\Desktop\new_projects\Sirket\Migros" />
+      <recent name="C:\Users\Arafat\OneDrive - Karadeniz Teknik University\Desktop\new_projects\Sirket\Sirket" />
+      <recent name="C:\Users\arafa\PycharmProjects\Sirket\Migros" />
+      <recent name="C:\Users\arafa\PycharmProjects\Sirket\Sirket" />
+      <recent name="C:\Users\arafa\PycharmProjects\Sirket\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Sirket" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Sirket" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Sirket.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Arafat\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="" />
+      <created>1639412447238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639412447238</updated>
+      <workItem from="1639412452026" duration="2264000" />
+      <workItem from="1639415013484" duration="2798000" />
+      <workItem from="1639499992105" duration="2607000" />
+      <workItem from="1639624278209" duration="6945000" />
+      <workItem from="1639637932029" duration="134000" />
+      <workItem from="1639638214298" duration="12978000" />
+      <workItem from="1639705925483" duration="7373000" />
+      <workItem from="1639738239988" duration="2049000" />
+      <workItem from="1639740379145" duration="897000" />
+      <workItem from="1639797520019" duration="3171000" />
+      <workItem from="1639812933504" duration="20000" />
+      <workItem from="1640068429429" duration="9992000" />
+      <workItem from="1640142531193" duration="3435000" />
+      <workItem from="1640228344936" duration="3802000" />
+      <workItem from="1640246083829" duration="3230000" />
+      <workItem from="1640314733197" duration="4139000" />
+      <workItem from="1640333774943" duration="3881000" />
+      <workItem from="1640381282333" duration="1210000" />
+      <workItem from="1640386836583" duration="601000" />
+      <workItem from="1640401327751" duration="1000" />
+      <workItem from="1640401504442" duration="3645000" />
+      <workItem from="1640421488284" duration="2338000" />
+      <workItem from="1640592363587" duration="34000" />
+      <workItem from="1640598351606" duration="347000" />
+      <workItem from="1640660542117" duration="4072000" />
+      <workItem from="1640680570864" duration="620000" />
+      <workItem from="1640688123275" duration="1778000" />
+      <workItem from="1640730275798" duration="624000" />
+      <workItem from="1640747309729" duration="4769000" />
+      <workItem from="1640772922090" duration="315000" />
+      <workItem from="1640812579383" duration="21000" />
+      <workItem from="1640833657507" duration="2435000" />
+      <workItem from="1640854085195" duration="618000" />
+      <workItem from="1640920107087" duration="1610000" />
+      <workItem from="1640988972475" duration="130000" />
+      <workItem from="1640994710378" duration="108000" />
+      <workItem from="1641030814819" duration="610000" />
+      <workItem from="1641068522520" duration="87000" />
+      <workItem from="1641073065544" duration="1457000" />
+      <workItem from="1641268482127" duration="210000" />
+      <workItem from="1641380960897" duration="6000" />
+      <workItem from="1647976752313" duration="1596000" />
+      <workItem from="1648064931643" duration="1596000" />
+      <workItem from="1649288543726" duration="1203000" />
+      <workItem from="1651773977651" duration="875000" />
+      <workItem from="1651775206709" duration="300000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1640228371792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640228371792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1640232161860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640232161860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="urun_detail was finished" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="urun-list sayfasi bitti" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+  </component>
+</project>
