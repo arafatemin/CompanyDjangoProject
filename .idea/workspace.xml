@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'">
-      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/article/admin.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Todo-App/article/admin.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/db.sqlite3" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Todo-App/db.sqlite3" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/01.jpg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/010.jpg" beforeDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Todo-App/media/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/Todo-App" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -43,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/certificate_management_system" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -139,7 +136,8 @@
       <workItem from="1648064931643" duration="1596000" />
       <workItem from="1649288543726" duration="1203000" />
       <workItem from="1651773977651" duration="875000" />
-      <workItem from="1651775206709" duration="300000" />
+      <workItem from="1651775206709" duration="913000" />
+      <workItem from="1652043671177" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1640228371792</created>

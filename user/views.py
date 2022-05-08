@@ -4,8 +4,6 @@ from django.contrib.auth.models import User
 
 
 
-
-
 def loginUser(request):
     if request.method == "POST":
         username = request.POST["username"]
