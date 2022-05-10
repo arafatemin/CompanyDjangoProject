@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge" />
+    <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sirket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sirket/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Count_Tags-and-Convert-Json-to-Html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -147,7 +150,7 @@
       <workItem from="1652043671177" duration="38000" />
       <workItem from="1652129463170" duration="141000" />
       <workItem from="1652141849626" duration="1432000" />
-      <workItem from="1652143299366" duration="1286000" />
+      <workItem from="1652143299366" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1640228371792</created>
@@ -177,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652144536542</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge">
+      <created>1652144748567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652144748567</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
