@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sirket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sirket/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,7 @@
       <workItem from="1652043671177" duration="38000" />
       <workItem from="1652129463170" duration="141000" />
       <workItem from="1652141849626" duration="1432000" />
-      <workItem from="1652143299366" duration="2424000" />
+      <workItem from="1652143299366" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1640228371792</created>
@@ -201,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652144980157</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge">
+      <created>1652145904061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652145904061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
