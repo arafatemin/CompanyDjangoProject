@@ -1,7 +1,9 @@
 {% extends 'base.html' %}
 {% load static %}
 {% block content %}
-
+    <style>
+        tr:hover {background-color: #efefef;}
+    </style>
     <body>
     <div class="main-wrapper">
         <div class="page-wrapper">
@@ -38,10 +40,10 @@
                                         <th>Turu</th>
                                     </tr>
                                     </thead>
-                                    <tbody>
+                                    <tbody >
 
                                     {% for urun in urunler %}
-                                        <tr>
+                                        <tr id="change-color">
                                             <td>
 
                                                 {% if urun.img %}
@@ -77,6 +79,8 @@
         </div>
     </div>
     </body>
+
+
 
 
 {% endblock %}

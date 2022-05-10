@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfcc37bd-e87d-4ef8-8f31-2a92e560d288" name="Default Changelist" comment="Merge">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migros/static/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Migros/static/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migros/static/assets/css/dataTables.bootstrap4.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Migros/static/assets/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migros/static/assets/css/fullcalendar.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Migros/static/assets/css/fullcalendar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migros/static/assets/css/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Migros/static/assets/css/select2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migros/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Migros/static/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/urun-listesi.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/urun-listesi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +160,9 @@
       <workItem from="1652043671177" duration="38000" />
       <workItem from="1652129463170" duration="141000" />
       <workItem from="1652141849626" duration="1432000" />
-      <workItem from="1652143299366" duration="3115000" />
+      <workItem from="1652143299366" duration="4326000" />
+      <workItem from="1652149272469" duration="1180000" />
+      <workItem from="1652223114949" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1640228371792</created>
@@ -231,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652146434383</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge">
+      <created>1652146583914</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652146583914</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

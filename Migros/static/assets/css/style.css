@@ -3012,6 +3012,12 @@ table.dataTable > thead .sorting:before, table.dataTable > thead .sorting:after,
     height: 100%
 }
 
+#container:hover{
+    background-color: red;
+}
+
+
+
 .table-body {
     position: relative;
     height: 100%;
