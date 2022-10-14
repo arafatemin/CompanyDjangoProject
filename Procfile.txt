@@ -1,1 +1,1 @@
-web: gunicorn Sirket.wsgi --log-file -
+web: gunicorn sirket.wsgi --log-file -
